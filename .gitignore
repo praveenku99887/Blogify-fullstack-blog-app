@@ -1,0 +1,17 @@
+# React
+node_modules/
+build/
+dist/
+*.log
+.env
+
+# Spring Boot
+target/
+*.class
+*.jar
+*.war
+
+# IDE / System
+.idea/
+.vscode/
+.DS_Store
