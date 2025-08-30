@@ -12,6 +12,7 @@ target/
 *.jar
 *.war
 *.ear
+*.log
 
 # React / Node
 node_modules/
