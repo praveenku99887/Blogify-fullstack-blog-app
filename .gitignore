@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+**/.gradle/
+build/
+*/build/
+
+# Spring Boot
+target/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# React / Node
+node_modules/
+dist/
+.env
