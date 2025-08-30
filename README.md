@@ -3,6 +3,8 @@
 ## Overview
 Blogify is a full-stack web application designed to provide users with a platform to create, manage, and share blog posts. The application is developed using **React** for the frontend and **Spring Boot** for the backend, with **MySQL** as the database. It demonstrates practical knowledge of full-stack development, including RESTful API design, authentication, and responsive UI development.
 
+![Blogify Homepage](Blogify_HomePage.png)
+
 ## Objectives
 - To enable users to create, edit, and delete blog posts securely.
 - To implement user authentication and authorization with role-based access.
